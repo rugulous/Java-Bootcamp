@@ -1,0 +1,5 @@
+1. single-line and multi-line comments. use single lines for brief annotations and multi-line for more descriptive comments
+
+2. comments are implemented using // for single line comments, /* opens a miltiline comment and */ closes it.
+
+3. i think comments should be used wherever possible, to increase readability of the code. they should not be neccesary if code is written correctly (e.g. "friendly" variable names), but are always useful!

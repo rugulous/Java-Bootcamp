@@ -1,0 +1,61 @@
+Error: Could not find or load main class undefined
+
+- change Public to public
+
+Error: Could not find or load main class undefined
+
+- change Glass to class
+
+Check class headers... parsing individual files failed!
+
+- change "My Addition Programme" to "MyAdditionProgramme"
+
+Check class headers... parsing individual files failed!
+
+- fix braces
+
+Check class headers... parsing individual files failed!
+
+- change "pub" to "public"
+
+Check class headers... parsing individual files failed!
+
+- change "status" to "static"
+
+Check class headers... parsing individual files failed!
+
+- change "avoid" to "void"
+
+Check class headers... parsing individual files failed!
+
+- change "mine" to "main"
+
+Check class headers... parsing individual files failed!
+
+- change "string()" to "String[]"
+
+error: unmappable character for encoding ASCII
+System.out.println(???1 + 1 is:" + 1 + ???1???);
+
+- fix quote mismatch
+
+Successfully compiled /tmp/java_SdxUk5/MyAdditionProgramme.java <-- main method
+1 + 1 is:11
+
+- put 1s in brackets
+
+Successfully compiled /tmp/java_IqmBHT/MyAdditionProgramme.java <-- main method
+1 + 1 is:2
+
+
+
+final program:
+public class MyAdditionProgramme{
+	public static void main(String[] argzz){
+		System.out.println("1 + 1 is:" + (1 + 1));
+        }
+}                   
+
+
+
+

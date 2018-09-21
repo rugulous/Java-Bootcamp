@@ -1,0 +1,11 @@
+"Public" should be "public"
+"Glass" should be "class"
+"My Addition Programme" should not have spaces ("MyAdditionProgramme")
+The braces to start and end the class are not the same ("[" and "}") - should both be curly braces. Same issue with "avoid mine"
+"pub" should be "public"
+"status" should be "static"
+"avoid" should be "void"
+"mine" should be "main"
+"string()" is invalid syntax - to define it as an array it should be "string[]"
+quote mismatch within System.out.println - uses 3 different types of quotation marks (only 1 is actually recognised). All of these should be the same
+adding string and int could lead to unexpected output
